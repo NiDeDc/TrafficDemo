@@ -1,0 +1,22 @@
+{
+  "plane_id": "{84e91888-b301-4a7c-89c5-225565266404}",
+  "plane_type": "波音757",
+  "road": "西跑道",
+  "total_time": 73.25,
+  "road_number": "19R",
+  "event_type": "起飞",
+  "target_type": 1,
+  "barking_distance": 1458.9,
+  "landing_area": "",
+  "contact_area": "WP2-263-005",
+  "start_time": "2022-3-19 17:20:27",
+  "leavetrack_position":"",
+  "track": ["byte", "byte"],
+  "track_offset": 12.1,
+  "speed": [24.0,50.0],
+  "pressure": [5.75,3.64],
+  "is_invade": 1,
+  "is_delete": 0,
+  "IntoTran_position": "2022-3-19 17:20:27",
+  "IntoTran_time": "2022-3-19 17:29:27"
+}
